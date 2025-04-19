@@ -4,7 +4,7 @@
  
  console.log(a);
  
-// let -we can reassign the value but we cant redeclare the values
+// let -we can reassign the value but we cant redeclare the values  
  let b=20;
  b=10;
  console.log(b);
